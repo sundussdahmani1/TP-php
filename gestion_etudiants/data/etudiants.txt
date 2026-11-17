@@ -1,0 +1,4 @@
+1;Benali;Sara;GI;14.5;;sara.benali@univ.ma
+2;El Amrani;Karim;IDIA;16.0;;karim.amrani@univ.ma
+3;Mansouri;Yasmine;GE;9.5;;yasmine.m@univ.ma
+4;Chraibi;Mehdi;GC;12.0;;mehdi.chr@univ.ma
